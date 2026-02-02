@@ -1,0 +1,14 @@
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\bin\Debug\net10.0\PhoneGuideApp.exe
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\bin\Debug\net10.0\PhoneGuideApp.deps.json
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\bin\Debug\net10.0\PhoneGuideApp.runtimeconfig.json
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\bin\Debug\net10.0\PhoneGuideApp.dll
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\bin\Debug\net10.0\PhoneGuideApp.pdb
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\obj\Debug\net10.0\PhoneGuideApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\obj\Debug\net10.0\PhoneGuideApp.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\obj\Debug\net10.0\PhoneGuideApp.AssemblyInfo.cs
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\obj\Debug\net10.0\PhoneGuideApp.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\obj\Debug\net10.0\PhoneGuideApp.dll
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\obj\Debug\net10.0\refint\PhoneGuideApp.dll
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\obj\Debug\net10.0\PhoneGuideApp.pdb
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\obj\Debug\net10.0\PhoneGuideApp.genruntimeconfig.cache
+C:\Users\Emil\Desktop\PhoneGuideApp\PhoneGuideApp\obj\Debug\net10.0\ref\PhoneGuideApp.dll
